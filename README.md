@@ -1,7 +1,6 @@
 # 🚀 Ajatshatru Kaushik  
 **Cybersecurity & Web Dev Enthusiast**  
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=qwertiian.qwertiian)  
 [![GitHub followers](https://img.shields.io/github/followers/qwertiian?label=Follow&style=social)](https://github.com/qwertiian)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ajatshatru-kaushik-2a44b1279)  
 [![X(previously Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://x.com/Aj_qwertiian)   
