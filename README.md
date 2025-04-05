@@ -18,7 +18,7 @@
 ---
 
 ## 🚀 **Currently Working On**  
-📌 **Dawakhaana** – A Flutter-based instant medicine delivery app with Firebase integration  
+📌 **Dawakhaana** – A Flutter-based healthcare providing application targetting both the urban as well as the rural areas with different language change options available and simple UI to use.
 📌 Enhancing my **Web Development, Android and Cybersecutiry** skills  
 
 ---
@@ -72,13 +72,6 @@
 ## 📜 **Dev Quote**  
 > "First, solve the problem. Then, write the code"  
 > – **John Johnson**  
-
----
-
-## 🔧 **Projects**  
-### 🚀 **Dawakhaana**  
-A **Flutter-based** instant medicine delivery app with **Firebase** integration.  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/qwertiian/Dawakhaana_Rev.git)  
 
 ---
 
