@@ -12,7 +12,6 @@
 🔹 **2nd Year CSE Student @ RBU | CGPA: 9.55**  
 🔹 Passionate about **Full-Stack Web Development & Android Development along with Cybersecurity**  
 🔹 Experienced in **C, C++, Java, Python, React, Flutter, Firebase**
-🔹 **Program Manager @ Google Developer Group (GDG) RBU**  
 🔹 **SIH 2023 Participant | Team Leader of project: "Kraken" - an Environment Protection based app under development**  
 
 ---
