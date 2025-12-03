@@ -9,17 +9,22 @@
 ---
 
 ## 💡 **About Me**  
-🔹 **2nd Year CSE Student @ RBU | CGPA: 9.55**  
+🔹 **3rd Year CSE Student @ RBU | CGPA: 9.49**  
 🔹 Passionate about **Full-Stack Web Development & Android Development along with Cybersecurity**  
 🔹 Experienced in **C, C++, Java, Python, React, Flutter, Firebase**
 🔹 **SIH 2023 Participant | Team Leader of project: "Kraken" - an Environment Protection based app under development**  
 
 ---
 
-## 🚀 **Currently Working On**  
-📌 **Dawakhaana** – A Flutter-based healthcare providing application targetting both the urban as well as the rural areas with different language change options available and simple UI to use.
+## 🚀 **Currently Working On**
 
-📌 Enhancing my **Web Development, Android and Cybersecutiry** skills  
+📌 **ProgressMate** – A full-stack habit & progress tracker with analytics, streak tracking, cloud-based data storage, and real-time user insights.
+
+📌 **CEP-Anandwan App** – A dedicated community engagement and project-management app built for Anandwan, enabling smoother coordination, updates, and project tracking across teams.
+
+📌 **Dawakhaana App** – A Flutter-based healthcare application designed for both rural and urban users, offering multilingual support and an extremely simple, accessible UI.
+
+📌 Continuously improving my **Web Development, Android, and Cybersecurity** skills.
 
 ---
 
