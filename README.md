@@ -1,8 +1,6 @@
 # 🚀 Ajatshatru Kaushik  
 **Cybersecurity & Web Dev Enthusiast**  
 
---
-
 ## 🌐 Socials & Contact
 
 - **GitHub:** https://github.com/qwertiian  
