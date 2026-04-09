@@ -1,107 +1,85 @@
 # 🚀 Ajatshatru Kaushik  
-**Cybersecurity & Web Dev Enthusiast**  
+**Cybersecurity • Distributed Systems • Full-Stack Developer**
 
-## 🌐 Socials & Contact
+---
+
+## 🚀 Featured Projects  
+
+### 🥇 NetWatch — Cyber Attack Attribution Platform  
+🔗 https://github.com/qwertiian/netwatch  
+
+A forensic-grade cybersecurity platform that reconstructs multi-hop attacks and attributes real attackers using behavioral fingerprinting and log correlation.  
+
+- Multi-source log ingestion (server, proxy, VPN, auth)  
+- Attack chain reconstruction across distributed systems  
+- Behavioral scoring & anomaly detection  
+- Real-time dashboard + Telegram alerts  
+- Built using FastAPI, React, PostgreSQL, Docker  
+
+---
+
+### 🥈 HDFS Backup & Recovery System  
+🔗 https://github.com/qwertiian/hdfs-backup-recovery-system  
+
+A production-ready big data resilience framework for Hadoop ecosystems with automated backup, verification, and recovery.  
+
+- Snapshot, DistCP, and HAR backup strategies  
+- Automated synthetic data generation  
+- Checksum-based integrity verification  
+- Failure simulation & recovery pipelines  
+- HTML dashboard with RTO/RPO insights  
+
+---
+
+### 🥉 ProgressMate (In Development)  
+
+A full-stack habit & productivity tracking platform with analytics, streak tracking, and real-time insights.  
+
+---
+
+## 💻 Tech Stack  
+
+**Core Stack:**  
+`Python • Java • C++ • JavaScript • FastAPI • React • PostgreSQL • Docker • Hadoop (HDFS) • Distributed Systems • Cybersecurity`
+
+---
+
+## 💡 About Me  
+
+🔹 3rd Year CSE @ RBU | CGPA: 9.53  
+🔹 Focused on Cybersecurity, Distributed Systems & Scalable Backend Architectures  
+🔹 Building production-oriented systems with real-world problem solving  
+
+---
+
+## 📌 Currently Learning  
+
+- Advanced Cybersecurity (SIEM, Threat Detection, Threat Intelligence)  
+- Distributed Systems & Big Data (Hadoop, Fault Tolerance, Recovery)  
+- Scalable Backend & System Design  
+- Cloud & DevOps (Docker, Deployment Architectures)  
+
+---
+
+## 🌐 Socials & Contact  
 
 - **GitHub:** https://github.com/qwertiian  
 - **LinkedIn:** https://www.linkedin.com/in/ajatshatru-kaushik-2a44b1279  
 - **Twitter (X):** https://x.com/Aj_qwertiian  
-- **Email:** ajatshatrukaushik98@gmail.com
-
-
----
-
-## 💡 **About Me**  
-🔹 **3rd Year CSE Student @ RBU | CGPA: 9.49**  
-🔹 Passionate about **Full-Stack Web Development & Android Development along with Cybersecurity**  
-🔹 Experienced in **C, C++, Java, Python, React, Flutter, Firebase**
-🔹 **SIH 2023 Participant | Team Leader of project: "Kraken" - an Environment Protection based app under development**  
+- **Email:** ajatshatrukaushik98@gmail.com  
 
 ---
 
-## 🚀 **Currently Working On**
+## 📩 Let’s Collaborate  
 
-📌 **ProgressMate** – A full-stack habit & progress tracker with analytics, streak tracking, cloud-based data storage, and real-time user insights.
+Interested in Cybersecurity, Backend Systems, or Scalable Architectures?  
+Let’s build something impactful 🚀  
 
-📌 **CEP-Anandwan App** – A dedicated community engagement and project-management app built for Anandwan, enabling smoother coordination, updates, and project tracking across teams.
-
-📌 **Dawakhaana App** – A Flutter-based healthcare application designed for both rural and urban users, offering multilingual support and an extremely simple, accessible UI.
-
-📌 Continuously improving my **Web Development, Android, and Cybersecurity** skills.
+📧 ajatshatrukaushik98@gmail.com  
 
 ---
 
-## 🌍 **Connect With Me**
+## 📜 Dev Quote  
 
-- **LinkedIn:** https://www.linkedin.com/in/ajatshatru-kaushik-2a44b1279  
-- **Twitter (X):** https://x.com/Aj_qwertiian  
-- **Email:** ajatshatrukaushik98@gmail.com
-
----
-
-## 💻 **Tech Stack**
-
-### **Programming Languages**
-- C  
-- C++  
-- Java  
-- Python  
-- JavaScript  
-
-### **Web Development**
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- React  
-- Node.js  
-- Express.js  
-- Chart.js (for analytics)
-
-### **Mobile Development**
-- Flutter  
-
-### **Backend & APIs**
-- Node.js  
-- Express.js  
-- RESTful API Design  
-- Session-based authentication  
-
-### **Databases**
-- Supabase (PostgreSQL)  
-- PostgreSQL  
-- Firebase  
-- MySQL  
-
-### **Cloud & Deployment**
-- Render (Backend Hosting)  
-- Netlify / Vercel (Frontend Hosting)  
-- Supabase Cloud Database  
-
-### **Tools & Platforms**
-- Git  
-- GitHub  
-- VS Code  
-- Postman  
-- NPM  
-
----
-
-## 📜 **Dev Quote**  
-> "First, solve the problem. Then, write the code"  
-> – **John Johnson**  
-
----
-
-## 📌 **Currently Learning**  
-- **Developing Full-Stack projects**
-- **Flutter Animations & State Management**
-- **Cybersecurity Techniques**   
-- **Cloud Computing (AWS, GCP, Azure)**  
-
----
-
-## 📩 **Let's Collaborate!**  
-Feel free to reach out for collaborations, projects, or just a chat!  
-**Email:** ajatshatrukaushik98@gmail.com
-
----
+> "First, solve the problem. Then, write the code."  
+> – John Johnson  
