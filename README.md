@@ -1,11 +1,25 @@
 # 🚀 Ajatshatru Kaushik  
-**Cybersecurity • Distributed Systems • Full-Stack Developer**
+**Full-Stack Developer • Distributed Systems • Cybersecurity**
 
 ---
 
 ## 🚀 Featured Projects  
 
-### 🥇 NetWatch — Cyber Attack Attribution Platform  
+### 🥇 ProgressMate — Productivity & Habit Tracking Platform  
+🔗 https://progressmate.onrender.com  
+🔗 https://github.com/qwertiian/ProgressMate  
+
+A full-stack productivity and habit tracking platform designed to help users manage daily goals, maintain streaks, and visualize long-term consistency through interactive analytics dashboards.
+
+- Daily task & habit management system  
+- Weekly analytics and monthly heatmap visualization  
+- Streak tracking with consistency monitoring  
+- User authentication & session management  
+- Built using Node.js, Express, EJS, SQLite, and Render  
+
+---
+
+### 🥈 NetWatch — Cyber Attack Attribution Platform  
 🔗 https://github.com/qwertiian/netwatch  
 
 A forensic-grade cybersecurity platform that reconstructs multi-hop attacks and attributes real attackers using behavioral fingerprinting and log correlation.  
@@ -18,7 +32,7 @@ A forensic-grade cybersecurity platform that reconstructs multi-hop attacks and 
 
 ---
 
-### 🥈 HDFS Backup & Recovery System  
+### 🥉 HDFS Backup & Recovery System  
 🔗 https://github.com/qwertiian/hdfs-backup-recovery-system  
 
 A production-ready big data resilience framework for Hadoop ecosystems with automated backup, verification, and recovery.  
@@ -27,13 +41,7 @@ A production-ready big data resilience framework for Hadoop ecosystems with auto
 - Automated synthetic data generation  
 - Checksum-based integrity verification  
 - Failure simulation & recovery pipelines  
-- HTML dashboard with RTO/RPO insights  
-
----
-
-### 🥉 ProgressMate (In Development)  
-
-A full-stack habit & productivity tracking platform with analytics, streak tracking, and real-time insights.  
+- HTML dashboard with RTO/RPO insights
 
 ---
 
@@ -47,7 +55,7 @@ A full-stack habit & productivity tracking platform with analytics, streak track
 ## 💡 About Me  
 
 🔹 3rd Year CSE @ RBU | CGPA: 9.53  
-🔹 Focused on Cybersecurity, Distributed Systems & Scalable Backend Architectures  
+🔹 Focused on Full-Stack development, Cybersecurity, Distributed Systems & Scalable Backend Architectures  
 🔹 Building production-oriented systems with real-world problem solving  
 
 ---
@@ -56,8 +64,7 @@ A full-stack habit & productivity tracking platform with analytics, streak track
 
 - Advanced Cybersecurity (SIEM, Threat Detection, Threat Intelligence)  
 - Distributed Systems & Big Data (Hadoop, Fault Tolerance, Recovery)  
-- Scalable Backend & System Design  
-- Cloud & DevOps (Docker, Deployment Architectures)  
+- Scalable Backend & System Design
 
 ---
 
@@ -72,14 +79,9 @@ A full-stack habit & productivity tracking platform with analytics, streak track
 
 ## 📩 Let’s Collaborate  
 
-Interested in Cybersecurity, Backend Systems, or Scalable Architectures?  
+Interested in Full-Stack development, Cybersecurity, Backend Systems ?
 Let’s build something impactful 🚀  
 
 📧 ajatshatrukaushik98@gmail.com  
 
 ---
-
-## 📜 Dev Quote  
-
-> "First, solve the problem. Then, write the code."  
-> – John Johnson  
