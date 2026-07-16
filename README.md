@@ -1,5 +1,4 @@
 # 🚀 Ajatshatru Kaushik  
-**Full-Stack Developer • Distributed Systems • Cybersecurity**
 
 ---
 
